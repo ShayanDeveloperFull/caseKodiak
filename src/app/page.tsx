@@ -97,7 +97,7 @@ export default function Home() {
                 src="line.png"
                 className="absolute w-20 -left-6 -bottom-6 select-none"
               />
-              <Phone className="w-64" imgSrc="customPhoneCase1.jpg" />
+              <Phone className="w-64" imgSrc="/customPhoneCase1.jpg" />
             </div>
           </div>
         </MaxWidthWrapper>
@@ -218,7 +218,7 @@ export default function Home() {
                   className="rounded-md object-cover bg-white shadow-xl ring-1 ring-gray-900/10 h-full w-full"
                 />
               </div>
-              <Phone className="w-60" imgSrc="customPhoneCase7.jpg" />
+              <Phone className="w-60" imgSrc="/customPhoneCase7.jpg" />
             </div>
           </div>
           <ul className="mx-auto mt-12 max-w-prose sm:text-lg space-y-2 w-fit">
