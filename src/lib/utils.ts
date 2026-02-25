@@ -18,7 +18,7 @@ export function constructMetadata({
   title = "caseKodiak",
   description = "Create custom high-quality phone cases FAST",
   image = "/thumbnail.png",
-  icons = "/WebLogo.png",
+  icons = "/WebLogo3.png",
 }: {
   title?: string;
   description?: string;
